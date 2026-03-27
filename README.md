@@ -1,81 +1,115 @@
-<div align="center">
+<!-- HERO SECTION -->
+<h1 align="center">Hi 👋, I'm Tharaka Ruksal</h1>
 
-# ⚡ Tharaka Ruksal
-### 🚀 Passionate Full-Stack Developer | AI Enthusiast
-**I build scalable web & mobile applications with intelligent features**
+<p align="center">
+  <b>Full-Stack Developer • AI Enthusiast • Problem Solver</b>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://ruksal-portfolio.vercel.app/)
-
----
-
-</div>
-
-## 🔭 Current Focus
-- 🤖 **Building:** AI-powered systems & smart applications.
-- 🧪 **Exploring:** Machine Learning integrations in real-world projects.
-- 🏗️ **Developing:** Full-stack platforms with modern architectures.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Smart+Applications;Always+Learning+New+Tech" />
+</p>
 
 ---
 
-## 💼 Featured Project: Roamio
-### 🌍 All-in-One Travel Platform
-- Developed an AI-powered travel platform with itinerary generation & booking features.
-- Built backend system & admin dashboard using **Laravel & PHP**.
-- Integrated ML models using **Python** for personalized recommendations.
-- Designed dynamic UI with **Blade templates** and managed data with **MySQL**.
+## 🌐 Portfolio
+<p align="center">
+  <a href="https://ruksal-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀 Visit My Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
-**Tech Stack:** `Laravel` • `PHP` • `Blade` • `Python (ML)` • `MySQL`
+---
+
+## 🚀 About Me
+- 🔭 Building AI-powered systems & smart applications  
+- 🌱 Exploring Machine Learning in real-world solutions  
+- 💡 Passionate about full-stack development & scalable systems  
+- ⚡ I turn ideas into real, functional products  
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.facebook.com/tharaka.ruksal"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/tharaka_ruksal/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tharaka-ruksal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 💼 Featured Project
+
+### 🌍 Roamio – All-in-One Travel Platform
+- 🧠 AI-powered itinerary generation & booking system  
+- ⚙️ Built backend & admin dashboard using Laravel & PHP  
+- 🤖 Integrated ML models using Python for recommendations  
+- 🎨 Dynamic UI with Blade + MySQL data handling  
+
+**Tech:** Laravel • PHP • Blade • Python (ML) • MySQL  
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🧠 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,dart" />
+</p>
 
 ### 🌐 Frontend & UI
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Framer Motion](https://img.shields.io/badge/framer_motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+<img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
+</p>
 
 ### ⚙️ Backend & Frameworks
-![Node.js](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
+<img src="https://skillicons.dev/icons?i=flutter" />
+</p>
 
-### 🤖 AI / Data & Databases
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🤖 AI / Data
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv"/>
+</p>
 
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🗄️ Databases & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,docker,aws" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruksal&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruksal&theme=dark&hide_border=true&layout=compact" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ruksal&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruksal&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruksal&theme=dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruksal&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
+---
+
+## 🏆 Contributions
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ruksal&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=ruksal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
 
 ## ⚡ Fun Fact
-I enjoy turning complex ideas into simple, beautiful, and functional applications 🚀
+> I love turning complex ideas into simple, beautiful, and functional applications 🚀
 
-## 🌐 Connect with Me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tharaka.ruksal) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tharaka_ruksal/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharaka-ruksal/) 
+---
 
-<br />
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in/api?id=ruksal&icon=6&color=3">
-    <img src="https://visitcount.itsvg.in/api?id=ruksal&icon=6&color=3" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ruksal&icon=6&color=3"/>
+</p>
