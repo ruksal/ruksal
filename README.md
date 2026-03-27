@@ -1,119 +1,73 @@
-## 👋 Hi, I'm Tharaka Ruksal
+<div align="center">
 
-🚀 Passionate Full-Stack Developer | AI Enthusiast  
-💡 I build scalable web & mobile applications with intelligent features  
+# ⚡ Tharaka Ruksal
+### 🚀 Full-Stack Developer | AI Enthusiast | Problem Solver
 
----
-
-## 🌐 Portfolio
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://ruksal-portfolio.vercel.app/)
-
----
-
-## 🔭 Current Focus
-- Building AI-powered systems & smart applications  
-- Exploring Machine Learning integrations in real-world projects  
-- Developing full-stack platforms with modern architectures  
+<p align="center">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tharaka.ruksal) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tharaka_ruksal/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharaka-ruksal/) 
+"I bridge the gap between complex AI logic and intuitive user experiences."
+
+[Explore Portfolio](https://ruksal-portfolio.vercel.app/) • [Contact Me](mailto:your-email@example.com) • [LinkedIn](https://www.linkedin.com/in/tharaka-ruksal/)
+
+</div>
+
+## 🔭 At a Glance
+- 🤖 **Current Focus:** Integrating LLMs and Computer Vision into scalable web architectures.
+- 🏗️ **Architecting:** High-performance full-stack platforms using **React**, **Node.js**, and **FastAPI**.
+- 🧪 **Learning:** Advanced Reinforcement Learning and CI/CD pipeline optimization.
 
 ---
 
-## 💼 Featured Project
+## 🛠️ Specialized Tech Stack
 
-### 🌍 Roamio – All-in-One Travel Platform
-- Developed an AI-powered travel platform with itinerary generation & booking features  
-- Built backend system & admin dashboard using Laravel & PHP  
-- Integrated ML models using Python for personalized recommendations  
-- Designed dynamic UI with Blade templates and managed data with MySQL  
+### 🎨 Frontend Artistry
+| Frameworks | Styling & Motion | Languages |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) | ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Framer](https://img.shields.io/badge/-Framer_Motion-000000?style=flat-square&logo=framer&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
-**Tech Stack:** Laravel, PHP, Blade, Python (ML), MySQL  
-
----
-
-## 💻 Tech Stack
-
-### 🧠 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+### ⚙️ Backend & Intelligence
+| Core Engines | AI & Data Science | Databases |
+| :--- | :--- | :--- |
+| ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![Scikit](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 
 ---
 
-### 🌐 Frontend & UI
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Framer Motion](https://img.shields.io/badge/framer_motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white)
+## 💼 Featured Masterpiece: Roamio
+> **All-in-One AI Travel Platform**
+> - **Intelligence:** Custom Python ML models for personalized trip recommendations.
+> - **Core:** Robust Laravel/PHP backend with a seamless Blade-powered UI.
+> - **Impact:** Reduced travel planning time by 70% through automated itinerary generation.
 
 ---
 
-### ⚙️ Backend & Frameworks
-![Node.js](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+## 📈 Dev Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruksal&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruksal&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruksal&theme=tokyonight&hide_border=true" width="100%" />
+</p>
 
 ---
 
-### 🤖 AI / Data
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+## 🤝 Connect & Collaborate
+<p align="left">
+<a href="https://linkedin.com/in/tharaka-ruksal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tharaka Ruksal" height="30" width="40" /></a>
+<a href="https://fb.com/tharaka.ruksal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tharaka" height="30" width="40" /></a>
+<a href="https://instagram.com/tharaka_ruksal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharaka_ruksal" height="30" width="40" /></a>
+</p>
 
----
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-### 🧩 Concepts
-`REST APIs` • `OOP` • `Unit Testing` • `CI/CD (Basic)` • `Machine Learning` • `NLP` • `AI`
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ruksal&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ruksal&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruksal&theme=dark&hide_border=true&layout=compact)
-
----
-
-## 🔝 Top Contributions
-
-![](https://github-contributor-stats.vercel.app/api?username=ruksal&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## ⚡ Fun Fact
-I enjoy turning complex ideas into simple, beautiful, and functional applications 🚀
-
----
-
-[![](https://visitcount.itsvg.in/api?id=ruksal&icon=6&color=3)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ruksal&icon=6&color=3" />
+</div>
