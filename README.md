@@ -5,6 +5,11 @@
 
 ---
 
+## 🌐 Portfolio
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://ruksal-portfolio.vercel.app/)
+
+---
+
 ## 🔭 Current Focus
 - Building AI-powered systems & smart applications  
 - Exploring Machine Learning integrations in real-world projects  
