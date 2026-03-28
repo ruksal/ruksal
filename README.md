@@ -76,28 +76,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruksal&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruksal&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruksal&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
-
----
-
-## 🏆 Contributions
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ruksal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
 
 ## ⚡ Fun Fact
 > I love turning complex ideas into simple, beautiful, and functional applications 🚀
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ruksal&icon=6&color=3"/>
-</p>
